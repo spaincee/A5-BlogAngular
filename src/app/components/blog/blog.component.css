@@ -1,0 +1,40 @@
+.page-content {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.news-section {
+  padding: 20px;
+}
+
+.form-section {
+  background-color: #f6f6f6;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+h2 {
+  margin-bottom: 20px;
+  font-weight: bold;
+  font-size: 1.8em;
+}
+
+.form-section label {
+  width: 100%;
+  font-weight: bold;
+}
+
+.form-section input, .form-section textarea {
+  width: 100%;
+  max-width: 350px;
+  margin-bottom: 10px;
+}
+
+.form-section button {
+  margin: 20px 0px;
+  font-weight: bold;
+}
+
+.news-section h2 {
+  padding-left: 10px;
+}
